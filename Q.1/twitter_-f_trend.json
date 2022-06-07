@@ -1,0 +1,364 @@
+[
+ {
+  "trends": [
+   {
+    "name": "Eskilstuna",
+    "url": "http://twitter.com/search?q=Eskilstuna",
+    "promoted_content": null,
+    "query": "Eskilstuna",
+    "tweet_volume": null
+   },
+   {
+    "name": "Zlatan",
+    "url": "http://twitter.com/search?q=Zlatan",
+    "promoted_content": null,
+    "query": "Zlatan",
+    "tweet_volume": 125987
+   },
+   {
+    "name": "Klarna",
+    "url": "http://twitter.com/search?q=Klarna",
+    "promoted_content": null,
+    "query": "Klarna",
+    "tweet_volume": null
+   },
+   {
+    "name": "Nacka",
+    "url": "http://twitter.com/search?q=Nacka",
+    "promoted_content": null,
+    "query": "Nacka",
+    "tweet_volume": null
+   },
+   {
+    "name": "Milos",
+    "url": "http://twitter.com/search?q=Milos",
+    "promoted_content": null,
+    "query": "Milos",
+    "tweet_volume": null
+   },
+   {
+    "name": "Etiopien",
+    "url": "http://twitter.com/search?q=Etiopien",
+    "promoted_content": null,
+    "query": "Etiopien",
+    "tweet_volume": null
+   },
+   {
+    "name": "#JusticeForJohnny",
+    "url": "http://twitter.com/search?q=%23JusticeForJohnny",
+    "promoted_content": null,
+    "query": "%23JusticeForJohnny",
+    "tweet_volume": 45983
+   },
+   {
+    "name": "#hv71",
+    "url": "http://twitter.com/search?q=%23hv71",
+    "promoted_content": null,
+    "query": "%23hv71",
+    "tweet_volume": null
+   },
+   {
+    "name": "#SthlmForum",
+    "url": "http://twitter.com/search?q=%23SthlmForum",
+    "promoted_content": null,
+    "query": "%23SthlmForum",
+    "tweet_volume": null
+   },
+   {
+    "name": "Kalmar",
+    "url": "http://twitter.com/search?q=Kalmar",
+    "promoted_content": null,
+    "query": "Kalmar",
+    "tweet_volume": null
+   },
+   {
+    "name": "\u00c5h Hammarby",
+    "url": "http://twitter.com/search?q=%22%C3%85h+Hammarby%22",
+    "promoted_content": null,
+    "query": "%22%C3%85h+Hammarby%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Milan",
+    "url": "http://twitter.com/search?q=Milan",
+    "promoted_content": null,
+    "query": "Milan",
+    "tweet_volume": 481308
+   },
+   {
+    "name": "#ManCity",
+    "url": "http://twitter.com/search?q=%23ManCity",
+    "promoted_content": null,
+    "query": "%23ManCity",
+    "tweet_volume": 52186
+   },
+   {
+    "name": "#YNWA",
+    "url": "http://twitter.com/search?q=%23YNWA",
+    "promoted_content": null,
+    "query": "%23YNWA",
+    "tweet_volume": 21402
+   },
+   {
+    "name": "Wolves",
+    "url": "http://twitter.com/search?q=Wolves",
+    "promoted_content": null,
+    "query": "Wolves",
+    "tweet_volume": 46636
+   },
+   {
+    "name": "scudetton",
+    "url": "http://twitter.com/search?q=scudetton",
+    "promoted_content": null,
+    "query": "scudetton",
+    "tweet_volume": null
+   },
+   {
+    "name": "Norwich",
+    "url": "http://twitter.com/search?q=Norwich",
+    "promoted_content": null,
+    "query": "Norwich",
+    "tweet_volume": 18981
+   },
+   {
+    "name": "edvardsen",
+    "url": "http://twitter.com/search?q=edvardsen",
+    "promoted_content": null,
+    "query": "edvardsen",
+    "tweet_volume": null
+   },
+   {
+    "name": "Stadion",
+    "url": "http://twitter.com/search?q=Stadion",
+    "promoted_content": null,
+    "query": "Stadion",
+    "tweet_volume": null
+   },
+   {
+    "name": "Davos",
+    "url": "http://twitter.com/search?q=Davos",
+    "promoted_content": null,
+    "query": "Davos",
+    "tweet_volume": 161486
+   },
+   {
+    "name": "filipstad",
+    "url": "http://twitter.com/search?q=filipstad",
+    "promoted_content": null,
+    "query": "filipstad",
+    "tweet_volume": null
+   },
+   {
+    "name": "Boris Bondarev",
+    "url": "http://twitter.com/search?q=%22Boris+Bondarev%22",
+    "promoted_content": null,
+    "query": "%22Boris+Bondarev%22",
+    "tweet_volume": 21571
+   },
+   {
+    "name": "selmani",
+    "url": "http://twitter.com/search?q=selmani",
+    "promoted_content": null,
+    "query": "selmani",
+    "tweet_volume": null
+   },
+   {
+    "name": "Sassuolo",
+    "url": "http://twitter.com/search?q=Sassuolo",
+    "promoted_content": null,
+    "query": "Sassuolo",
+    "tweet_volume": 25969
+   },
+   {
+    "name": "Liverpool",
+    "url": "http://twitter.com/search?q=Liverpool",
+    "promoted_content": null,
+    "query": "Liverpool",
+    "tweet_volume": 360631
+   },
+   {
+    "name": "stahre",
+    "url": "http://twitter.com/search?q=stahre",
+    "promoted_content": null,
+    "query": "stahre",
+    "tweet_volume": null
+   },
+   {
+    "name": "Rafael Leao",
+    "url": "http://twitter.com/search?q=%22Rafael+Leao%22",
+    "promoted_content": null,
+    "query": "%22Rafael+Leao%22",
+    "tweet_volume": 26197
+   },
+   {
+    "name": "F\u00f6rsvarsh\u00f6gskolan",
+    "url": "http://twitter.com/search?q=F%C3%B6rsvarsh%C3%B6gskolan",
+    "promoted_content": null,
+    "query": "F%C3%B6rsvarsh%C3%B6gskolan",
+    "tweet_volume": null
+   },
+   {
+    "name": "Eva R\u00f6se",
+    "url": "http://twitter.com/search?q=%22Eva+R%C3%B6se%22",
+    "promoted_content": null,
+    "query": "%22Eva+R%C3%B6se%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Aston Villa",
+    "url": "http://twitter.com/search?q=%22Aston+Villa%22",
+    "promoted_content": null,
+    "query": "%22Aston+Villa%22",
+    "tweet_volume": 87074
+   },
+   {
+    "name": "Robin Olsen",
+    "url": "http://twitter.com/search?q=%22Robin+Olsen%22",
+    "promoted_content": null,
+    "query": "%22Robin+Olsen%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Bojanic",
+    "url": "http://twitter.com/search?q=Bojanic",
+    "promoted_content": null,
+    "query": "Bojanic",
+    "tweet_volume": null
+   },
+   {
+    "name": "Agenda",
+    "url": "http://twitter.com/search?q=Agenda",
+    "promoted_content": null,
+    "query": "Agenda",
+    "tweet_volume": 118471
+   },
+   {
+    "name": "jennie",
+    "url": "http://twitter.com/search?q=jennie",
+    "promoted_content": null,
+    "query": "jennie",
+    "tweet_volume": 619434
+   },
+   {
+    "name": "is-terrorister",
+    "url": "http://twitter.com/search?q=is-terrorister",
+    "promoted_content": null,
+    "query": "is-terrorister",
+    "tweet_volume": null
+   },
+   {
+    "name": "h\u00e4cken",
+    "url": "http://twitter.com/search?q=h%C3%A4cken",
+    "promoted_content": null,
+    "query": "h%C3%A4cken",
+    "tweet_volume": null
+   },
+   {
+    "name": "Ten Hag",
+    "url": "http://twitter.com/search?q=%22Ten+Hag%22",
+    "promoted_content": null,
+    "query": "%22Ten+Hag%22",
+    "tweet_volume": 117479
+   },
+   {
+    "name": "Annie",
+    "url": "http://twitter.com/search?q=Annie",
+    "promoted_content": null,
+    "query": "Annie",
+    "tweet_volume": 26378
+   },
+   {
+    "name": "Mbappe",
+    "url": "http://twitter.com/search?q=Mbappe",
+    "promoted_content": null,
+    "query": "Mbappe",
+    "tweet_volume": 279161
+   },
+   {
+    "name": "Manchester City",
+    "url": "http://twitter.com/search?q=%22Manchester+City%22",
+    "promoted_content": null,
+    "query": "%22Manchester+City%22",
+    "tweet_volume": 151047
+   },
+   {
+    "name": "Mild",
+    "url": "http://twitter.com/search?q=Mild",
+    "promoted_content": null,
+    "query": "Mild",
+    "tweet_volume": 27353
+   },
+   {
+    "name": "IS-kvinnor",
+    "url": "http://twitter.com/search?q=IS-kvinnor",
+    "promoted_content": null,
+    "query": "IS-kvinnor",
+    "tweet_volume": null
+   },
+   {
+    "name": "Victor",
+    "url": "http://twitter.com/search?q=Victor",
+    "promoted_content": null,
+    "query": "Victor",
+    "tweet_volume": 56487
+   },
+   {
+    "name": "fram\u00e5t malm\u00f6",
+    "url": "http://twitter.com/search?q=%22fram%C3%A5t+malm%C3%B6%22",
+    "promoted_content": null,
+    "query": "%22fram%C3%A5t+malm%C3%B6%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Sorga",
+    "url": "http://twitter.com/search?q=Sorga",
+    "promoted_content": null,
+    "query": "Sorga",
+    "tweet_volume": null
+   },
+   {
+    "name": "BLACKPINK",
+    "url": "http://twitter.com/search?q=BLACKPINK",
+    "promoted_content": null,
+    "query": "BLACKPINK",
+    "tweet_volume": 1310218
+   },
+   {
+    "name": "de brito",
+    "url": "http://twitter.com/search?q=%22de+brito%22",
+    "promoted_content": null,
+    "query": "%22de+brito%22",
+    "tweet_volume": null
+   },
+   {
+    "name": "Haris",
+    "url": "http://twitter.com/search?q=Haris",
+    "promoted_content": null,
+    "query": "Haris",
+    "tweet_volume": null
+   },
+   {
+    "name": "lennartsson",
+    "url": "http://twitter.com/search?q=lennartsson",
+    "promoted_content": null,
+    "query": "lennartsson",
+    "tweet_volume": null
+   },
+   {
+    "name": "Kulusevski",
+    "url": "http://twitter.com/search?q=Kulusevski",
+    "promoted_content": null,
+    "query": "Kulusevski",
+    "tweet_volume": null
+   }
+  ],
+  "as_of": "2022-05-23T16:48:30Z",
+  "created_at": "2022-05-10T12:51:43Z",
+  "locations": [
+   {
+    "name": "Gothenburg",
+    "woeid": 890869
+   }
+  ]
+ }
+]
